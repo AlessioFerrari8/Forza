@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <!-- Iron background already in the window: no white flash at launch (dark theme by default) -->
+    <style name="Theme.Forza" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/forza_iron</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

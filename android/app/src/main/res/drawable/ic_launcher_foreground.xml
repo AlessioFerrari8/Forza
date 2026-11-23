@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Un disco olimpico visto di taglio su un bilanciere: due dischi alti (brace) e uno
+  più basso per lato, la sbarra al centro. Tutto entro la zona sicura (66dp centrali).
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#FFEDEBE4" android:pathData="M26,52h56v4h-56z" />
+    <path android:fillColor="#FFFF6B2C" android:pathData="M33,34h7v40h-7z" />
+    <path android:fillColor="#FFFF6B2C" android:pathData="M68,34h7v40h-7z" />
+    <path android:fillColor="#FFEDEBE4" android:pathData="M41.5,41h5v26h-5z" />
+    <path android:fillColor="#FFEDEBE4" android:pathData="M61.5,41h5v26h-5z" />
+</vector>

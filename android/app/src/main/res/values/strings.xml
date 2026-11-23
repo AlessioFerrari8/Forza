@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="it">
+    <string name="action_add">Aggiungi</string>
+    <string name="action_back">Indietro</string>
+    <string name="action_cancel">Annulla</string>
+    <string name="action_decrease">Diminuisci</string>
+    <string name="action_delete">Elimina</string>
+    <string name="action_done">Fatto</string>
+    <string name="action_duplicate">Duplica</string>
+    <string name="action_edit">Modifica</string>
+    <string name="action_increase">Aumenta</string>
+    <string name="action_more">Altre opzioni</string>
+    <string name="action_move_down">Sposta giù</string>
+    <string name="action_move_up">Sposta su</string>
+    <string name="action_remove">Rimuovi</string>
+    <string name="action_rename">Rinomina</string>
+    <string name="action_retry">Riprova</string>
+    <string name="action_save">Salva</string>
+    <string name="action_search">Cerca</string>
+    <string name="action_undo">Annulla ultimo</string>
+    <string name="app_name" translatable="false">Forza</string>
+    <string name="field_name">Nome</string>
+    <string name="field_notes">Note</string>
+    <string name="filter_all">Tutti</string>
+    <string name="tab_body">Corpo</string>
+    <string name="tab_food">Cibo</string>
+    <string name="tab_today">Oggi</string>
+    <string name="tab_train">Allena</string>
+    <string name="unit_kg" translatable="false">kg</string>
+    <string name="unit_lb" translatable="false">lb</string>
+    <string name="unknown">Sconosciuto</string>
+</resources>
